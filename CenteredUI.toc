@@ -3,6 +3,7 @@
 ## Notes: Constrains the UI to a centered 16:9 area on ultrawide monitors.
 ## Author: Siz
 ## Version: @project-version@
+## X-Curse-Project-ID: 1709846
 ## SavedVariables: CenteredUIDB
 
 CenteredUI.lua
