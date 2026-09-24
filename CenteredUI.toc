@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Centered UI
+## Notes: Constrains the UI to a centered 16:9 area on ultrawide monitors.
+## Author: Siz
+## Version: 1.0.0
+## SavedVariables: CenteredUIDB
+
+CenteredUI.lua
