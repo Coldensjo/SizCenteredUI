@@ -2,7 +2,7 @@
 ## Title: Centered UI
 ## Notes: Constrains the UI to a centered 16:9 area on ultrawide monitors.
 ## Author: Siz
-## Version: 1.0.0
+## Version: @project-version@
 ## SavedVariables: CenteredUIDB
 
 CenteredUI.lua

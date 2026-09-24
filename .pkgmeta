@@ -1,0 +1,6 @@
+package-as: CenteredUI
+
+ignore:
+  - README.md
+  - CLAUDE.md
+  - AGENTS.md
